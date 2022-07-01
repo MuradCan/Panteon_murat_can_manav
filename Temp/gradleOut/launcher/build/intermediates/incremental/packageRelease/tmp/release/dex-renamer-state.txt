@@ -1,0 +1,4 @@
+#Fri Jul 01 10:15:40 EET 2022
+base.0=/Users/arenas/Panteon_mrt/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
